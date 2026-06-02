@@ -131,17 +131,17 @@
   "transport": {
     "title": "交通指南",
     "fromCenter": "从瓦尔纳市中心",
-    "fromCenterDesc": "普罗瓦迪亚距瓦尔纳市中心约40-50分钟车程。您可以沿A2高速公路向西（舒门方向）行驶，并在普罗瓦迪亚出口下高速。",
+    "fromCenterDesc": "从瓦尔纳市中心出发，沿 A2 高速公路向西（舒门方向）行驶，在普罗瓦迪亚（Provadia）出口下高速，沿 208 号公路进入镇中心。全程约 40-50 分钟。",
     "fromStation": "公共交通",
-    "fromStationDesc": "有定期火车和巴士连接瓦尔纳与普罗瓦迪亚。",
+    "fromStationDesc": "从普罗瓦迪亚火车站/汽车站出发，步行约 20-30 分钟或乘坐出租车 5 分钟即可到达要塞的主要步道入口。",
     "fromAirport": "从机场",
-    "fromAirportDesc": "从瓦尔纳机场乘车或出租车约需40分钟。沿A2高速公路向西行驶即可。",
+    "fromAirportDesc": "从瓦尔纳机场出发，直接驶入 A2 高速公路向西行驶，约 40 分钟车程即可到达普罗瓦迪亚。",
     "publicTransport": "公共交通",
-    "publicTransportDesc": "从瓦尔纳到普罗瓦迪亚每天都有火车和巴士服务。从普罗瓦迪亚车站，您可以乘坐当地出租车或步行前往要塞。",
+    "publicTransportDesc": "瓦尔纳和普罗瓦迪亚之间每天有定期的火车 (BDZ) 和巴士。抵达后，您可以徒步登山或乘坐出租车前往北侧停车场。",
     "walking": "步行",
-    "walkingDesc": "您可以从街区的任何地方步行探索要塞。",
+    "walkingDesc": "如需步行前往要塞，可从普罗瓦迪亚镇内的 'Ovech' 街沿东侧的岩石阶梯拾级而上，或选择西侧的生态步道。",
     "driving": "自驾",
-    "drivingDesc": "驾车轻松抵达，周边有街道停车位。",
+    "drivingDesc": "最便捷的方式是自驾前往北门（Northern Entrance），那里设有专用停车场。在镇中心顺着“Крепост Овеч”的指示牌行驶即可到达。",
     "getDirections": "获取前往路线"
   },
   "route": {

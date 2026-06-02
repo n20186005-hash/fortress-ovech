@@ -131,17 +131,17 @@
   "transport": {
     "title": "How to Get Here",
     "fromCenter": "From Varna Center",
-    "fromCenterDesc": "Provadia is about 40-50 minutes drive from Varna center. You can take the A2 highway west towards Shumen and exit at Provadia.",
+    "fromCenterDesc": "From Varna, take the A2 highway west towards Shumen. Take the Provadia exit and follow route 208 directly into the town center. The drive takes about 40-50 minutes.",
     "fromStation": "By Public Transport",
-    "fromStationDesc": "There are regular trains and buses connecting Varna to Provadia.",
+    "fromStationDesc": "From Provadia railway/bus station, the fortress is about a 20-30 minute walk or a 5-minute taxi ride to the main trailheads.",
     "fromAirport": "From the Airport",
-    "fromAirportDesc": "Varna Airport is about 40 minutes away by car or taxi. Follow A2 highway west.",
+    "fromAirportDesc": "From Varna Airport, take the A2 highway west. The drive to Provadia takes approximately 40 minutes.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Train and bus services operate daily from Varna to Provadia. From the Provadia station, you can take a local taxi or walk to the fortress.",
+    "publicTransportDesc": "Regular trains (BDZ) and buses run daily from Varna to Provadia. Upon arriving in Provadia, you can hike up or take a taxi to the northern parking area.",
     "walking": "Walking",
-    "walkingDesc": "You can explore the fortress on foot from any point in the district.",
+    "walkingDesc": "To reach the fortress on foot, head to the eastern stairs starting from 'Ovech' street in Provadia, or take the western eco-trail.",
     "driving": "Driving",
-    "drivingDesc": "Easy access by car, street parking available in the area.",
+    "drivingDesc": "For the easiest access, drive to the Northern Entrance where a dedicated parking lot is available. Follow the signs for 'Крепост Овеч' from the town center.",
     "getDirections": "Get Directions"
   },
   "route": {
