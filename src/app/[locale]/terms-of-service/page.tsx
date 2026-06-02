@@ -11,8 +11,7 @@ export async function generateMetadata({
   const baseUrl = 'https://ovechfortress.com';
   const zhUrl = `${baseUrl}/zh/terms-of-service`;
   const enUrl = `${baseUrl}/en/terms-of-service`;
-  const elUrl = `${baseUrl}/el/terms-of-service`;
-  const trUrl = `${baseUrl}/tr/terms-of-service`;
+  const bgUrl = `${baseUrl}/bg/terms-of-service`;
   const selfUrl = `${baseUrl}/${locale}/terms-of-service`;
 
   return {
@@ -21,8 +20,7 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'el': elUrl,
-        'tr': trUrl,
+        'bg': bgUrl,
         'x-default': enUrl,
       },
     },
