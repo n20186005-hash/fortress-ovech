@@ -20,8 +20,8 @@
     "mapsLink": "https://maps.app.goo.gl/6i3FwKB2LmU58Bxw8"
   },
   "intro": {
-    "title": "Discover Geo Milev Park",
-    "description": "Geo Milev Park is a beautiful green space located in the Geo Milev residential district in Varna. The fortress is named after the famous Bulgarian poet and writer Geo Milev. It is a favorite place for walks, sports, and relaxation for local residents.",
+    "title": "Discover Fortress „Ovech“",
+    "description": "Fortress „Ovech“ is a magnificent historical landmark located in Provadia, Varna Province. The fortress offers breathtaking views and a deep dive into Bulgaria's medieval history. It is a favorite place for exploration, photography, and relaxation for visitors.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -34,35 +34,35 @@
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Green areas and alleys",
-        "Children's playgrounds",
-        "Benches and rest areas",
+        "Ancient stone walls and ruins",
+        "Stunning panoramic views",
+        "Historical atmosphere",
         "Easy access by public transport"
       ]
     }
   },
   "knowledge": {
-    "title": "About Geo Milev Park",
+    "title": "About Fortress „Ovech“",
     "sections": [
       {
         "id": "history",
         "title": "History & Name",
-        "content": "The fortress is named after Geo Milev (1895-1925), a prominent Bulgarian poet, writer, and translator. He is one of the most significant figures in Bulgarian modern literature. The district and park bear his name as a sign of recognition of his literary work."
+        "content": "The fortress has a rich history dating back to the Byzantine and medieval Bulgarian periods. It served as an important defensive stronghold and played a key role in the region's history."
       },
       {
         "id": "geography",
         "title": "Location & Access",
-        "content": "The fortress is located in the Geo Milev residential district in Varna. The area is well-developed with easy access to public transport, including buses and metro. The fortress offers a pleasant environment for walking and relaxation."
+        "content": "Located in Provadia, Varna Province, the fortress is situated on a striking plateau. It is accessible by car and public transport, offering an unforgettable historical journey."
       },
       {
         "id": "architecture",
         "title": "Amenities & Infrastructure",
-        "content": "The fortress features well-maintained alleys, green areas, benches for rest, and children's playgrounds. It is a popular place for walking, sports, and outdoor social activities."
+        "content": "The site features well-preserved ruins, a spectacular bridge, and walking paths. It is a popular destination for history enthusiasts and nature lovers."
       },
       {
         "id": "protection",
         "title": "Management & Maintenance",
-        "content": "The fortress is maintained by Varna Municipality. The green areas are cared for to ensure cleanliness and safety for visitors. The fortress is an important part of Varna's green system."
+        "content": "The fortress is maintained as an important cultural heritage site. The area is cared for to ensure preservation of history and safety for visitors."
       }
     ]
   },
@@ -70,7 +70,7 @@
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "When is Geo Milev Park open?",
+        "question": "When is Fortress „Ovech“ open?",
         "answer": "The fortress is open year-round and accessible to visitors throughout the day. There are no specific operating hours restrictions."
       },
       {
@@ -131,13 +131,13 @@
   "transport": {
     "title": "How to Get Here",
     "fromCenter": "From Varna Center",
-    "fromCenterDesc": "Provadia is about 15-20 minutes from Varna center.",
+    "fromCenterDesc": "Provadia is about 40-50 minutes drive from Varna center. You can take the A2 highway west towards Shumen and exit at Provadia.",
     "fromStation": "By Public Transport",
-    "fromStationDesc": "Accessible by buses and metro to Provadia.",
+    "fromStationDesc": "There are regular trains and buses connecting Varna to Provadia.",
     "fromAirport": "From the Airport",
-    "fromAirportDesc": "Varna Airport is about 20-30 minutes by car or taxi.",
+    "fromAirportDesc": "Varna Airport is about 40 minutes away by car or taxi. Follow A2 highway west.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Bus lines and metro to Provadia.",
+    "publicTransportDesc": "Train and bus services operate daily from Varna to Provadia. From the Provadia station, you can take a local taxi or walk to the fortress.",
     "walking": "Walking",
     "walkingDesc": "You can explore the fortress on foot from any point in the district.",
     "driving": "Driving",
@@ -148,35 +148,35 @@
     "title": "Recommended Route",
     "overview": "Explore the fortress and its surroundings.",
     "steps": [
-      "Enter Geo Milev Park",
-      "Walk along the main alley",
-      "Visit the children's playgrounds",
-      "Rest on the benches in the fortress",
-      "Explore the surroundings of the district"
+      "Enter Fortress „Ovech“",
+      "Walk along the bridge",
+      "Explore the ancient ruins",
+      "Enjoy the panoramic views",
+      "Take memorable photos"
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "The Beauty of Geo Milev Park",
+    "subtitle": "The Beauty of Fortress „Ovech“",
     "captions": [
-      "Park view",
+      "Fortress view",
       "Green alleys",
       "Children's playground",
       "Rest benches",
       "Green areas",
-      "Park in spring",
+      "Fortress in spring",
       "Walking alley",
       "Trees and vegetation",
       "Rest area",
       "View towards the district",
-      "Park in summer",
+      "Fortress in summer",
       "Flowers in the fortress",
       "Pedestrian alley",
       "Green zone",
-      "Park in autumn",
+      "Fortress in autumn",
       "Trees with leaves",
       "Architectural details",
-      "Park and surroundings",
+      "Fortress and surroundings",
       "View from the bench"
     ],
     "viewAll": "View more photos on Google Maps",
@@ -192,7 +192,7 @@
         "name": "Ivan P.",
         "rating": 5,
         "date": "2026-05-15",
-        "text": "Wonderful park for walking. Lots of greenery and peaceful atmosphere."
+        "text": "Wonderful fortress for walking. Lots of history and peaceful atmosphere."
       },
       {
         "name": "Maria K.",
@@ -222,7 +222,7 @@
         "name": "Anna M.",
         "rating": 4,
         "date": "2025-12-30",
-        "text": "Good park in a residential area. Ideal for daily walks."
+        "text": "Great historical site. Ideal for visiting."
       }
     ]
   },
@@ -250,8 +250,8 @@
     "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
   },
   "officialManagement": {
-    "title": "About Geo Milev Park",
-    "text": "Geo Milev Park is maintained by Varna Municipality. The fortress is an important part of Varna's green system and is accessible to all citizens."
+    "title": "About Fortress „Ovech“",
+    "text": "Fortress „Ovech“ is maintained by the local authorities and cultural heritage organizations. It is an important part of Bulgaria's historical landmarks."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -277,7 +277,7 @@
     "sections": [
       {
         "heading": "Website Content and Use",
-        "content": "This website provides travel, transport, and historical information about Geo Milev Park. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+        "content": "This website provides travel, transport, and historical information about Fortress „Ovech“. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
       },
       {
         "heading": "Intellectual Property",

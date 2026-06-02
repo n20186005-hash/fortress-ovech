@@ -18,14 +18,13 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://geomilevpark.com';
+  const baseUrl = 'https://ovechfortress.com';
   return {
     alternates: {
       canonical: `${baseUrl}/${locale}`,
       languages: {
         'zh': `${baseUrl}/zh`,
         'en': `${baseUrl}/en`,
-        'bg': `${baseUrl}/bg`,
         'x-default': `${baseUrl}/en`,
       },
     },

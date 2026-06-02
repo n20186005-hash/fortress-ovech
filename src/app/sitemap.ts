@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://geomilevpark.com';
+  const baseUrl = 'https://ovechfortress.com';
   
   const entries: MetadataRoute.Sitemap = [];
 

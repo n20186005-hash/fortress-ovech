@@ -28,7 +28,7 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Geo+Milev+Park+Sofia+Bulgaria&output=embed"
+            src="https://maps.google.com/maps?q=Fortress+Ovech,+Provadia,+Bulgaria&output=embed"
             width="100%"
             height="450"
             style={{ border: 0 }}

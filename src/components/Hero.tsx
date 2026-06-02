@@ -10,7 +10,7 @@ export default function Hero() {
       {/* Background image slideshow */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/fortress-ovech (1).jpg"
+          src="/gallery/fortress-ovech%20(1).jpg"
           alt="Fortress Ovech"
           className="w-full h-full object-cover"
         />
